@@ -4,8 +4,6 @@ This repository is a container for resources to investigate deep-learning based 
 * [bralpdx](https://github.com/bralpdx)
 * [jnickg](https://github.com/jnickg)
 * [MBux](https://github.com/MBux)
-* [tjnuccio](https://github.com/tjnuccio)
-* [TheDragonMask](https://github.com/TheDragonMask)
 
 # Repository Layout
 TBD
